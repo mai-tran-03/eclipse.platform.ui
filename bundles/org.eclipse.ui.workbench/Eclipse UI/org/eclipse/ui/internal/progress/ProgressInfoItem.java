@@ -1007,7 +1007,7 @@ public class ProgressInfoItem extends Composite {
 		}
 	}
 	
-	/*
+	/**
 	 * Check if the current theme of the workspace is a dark theme. If it is, returns true.
 	 */
 	private boolean isDarkThemeSelected() {
